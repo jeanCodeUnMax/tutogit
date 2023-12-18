@@ -1,0 +1,9 @@
+
+.frame-2 {
+  box-sizing: border-box;
+  background: #a21919;
+  width: 584px;
+  height: 317px;
+  position: relative;
+  overflow: hidden;
+}
